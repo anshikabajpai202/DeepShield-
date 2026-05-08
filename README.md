@@ -54,3 +54,26 @@ npm run dev
 
 Open `http://localhost:5173`
 
+
+## Screenshots
+
+### Home Page
+![Home Page](SCREENSHOTS/homepage.png)
+
+### Fake Image Selection
+![Fake Select](SCREENSHOTS/fakeselect.png)
+
+### Fake Image Upload
+![Fake Upload](SCREENSHOTS/fakeupload.png)
+
+### Fake Prediction Result
+![Fake Predict](SCREENSHOTS/fake-predict.png)
+
+### Real Image Upload
+![Real Upload](SCREENSHOTS/real-upload.png)
+
+### Real Prediction Result
+![Real Predict](SCREENSHOTS/real-predict.png)
+
+### Final Result
+![Final Result](SCREENSHOTS/real-final.png)

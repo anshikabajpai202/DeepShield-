@@ -98,7 +98,3 @@ npm run dev
 The objective of DeepShield is to provide a reliable and scalable solution for detecting manipulated digital media using modern artificial intelligence techniques and ensemble deep learning systems.
 
 ---
-
-
-### Final Result
-![Final Result](SCREENSHOTS/real-final.png)
